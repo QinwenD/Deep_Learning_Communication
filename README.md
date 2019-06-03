@@ -9,7 +9,7 @@
   * Methods: Autoencoder
   * Comments: This work showed that the autoencoder can perform better than the current day methods. The work needed to continue to evaluate the performance on larger-scale MIMO arrangements and massive MIMO.
 
-*	T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018.[link](https://ieeexplore.ieee.org/document/8267032)
+* T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018.[link](https://ieeexplore.ieee.org/document/8267032)
   * Modulation classification
   * The author compared the performance of deep learning based radio signal classification with the baseline method using higher order moments and strong boosted gradient tree classification across a range of configurations and channel impairments.
   * Methods: Convolutional Neural Network, VGG architecture, Residual Neural Network
